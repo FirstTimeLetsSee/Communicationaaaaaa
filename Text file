@@ -1,0 +1,18 @@
+@import url('https://fonts.cdnfonts.com/css/star-wars');
+
+:root {
+    /* FONTS */
+    --main-font: 'Star Wars', sans-serif;
+
+    /* COLOR PALETTE */
+    --light-foreground: #f1ee8e;
+    --mid-foreground: #e5de00;
+    --dark-foreground: #e69b00;
+
+    --light-background: #3b444b;
+    --light-backgound-opaque: rgba(59,68,75,0.5);
+    --dark-background: #0e1111;
+    --dark-background-opaque: rgba(14,17,17,0.8);
+}
+
+Color/font is Orbitron?
